@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "861304830205",
+    "project_id": "sleeq-flutterflow",
+    "storage_bucket": "sleeq-flutterflow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861304830205:android:afbe529757ba0edf7be694",
+        "android_client_info": {
+          "package_name": "com.sleeq.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861304830205-3b2bkoitkm4krd2686rqgfifmroifljg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sleeq.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "861304830205-d8297ltt4co38fel9eotu5smrrehg0u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC574Dv1r73dFpgiviYNf366cVuhcKi90s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861304830205-d8297ltt4co38fel9eotu5smrrehg0u5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "861304830205-evsr49lodcthba95gm7hm12ve7m0b102.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sleeq.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
